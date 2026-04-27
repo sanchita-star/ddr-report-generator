@@ -178,6 +178,7 @@ in your browser.
 ## 📽️ Demo
 
 👉 Add your Loom video link here
+https://www.loom.com/share/e1fd809951174cfaaba7a9197098b73e
 
 ---
 
@@ -190,5 +191,5 @@ Sanchita Patil
 ## ⭐ Note
 
 This project emphasizes **AI workflow design, reasoning, and structured output generation**, rather than UI complexity.
-/index.html
+
 
